@@ -1,7 +1,7 @@
 # Hora_de_aventura
  Un repositorio de la serie hora de aventura
  
- hora de aventura es una serie entretenida que me gusta bastante por las partes reflexivas y complejidad del mismo
+ hora de aventura es una serie entretenida que me gusta bastante por las partes reflexivas y complejidad del mismo,La serie transcurre en un continente ficticio llamado "Tierra de Ooo",​ en un futuro post-apocalíptico unos mil años después de "La Gran Guerra de los Champiñones", un holocausto nuclear. Según Ward, el espectáculo tiene lugar "después de que las bombas han caído y la magia ha vuelto al mundo".
 
 
  vinculo hacerca de la serie hora de aventura 
